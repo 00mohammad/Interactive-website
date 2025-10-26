@@ -61,3 +61,13 @@ Welcome to **Interactive Website**, a sleek, modern, and fully responsive web pr
 - **Optimized assets** – Fast loading and smooth performance.
 
 ---
+## 🌐 Live Demo
+
+🎯 Experience the Interactive Website on your phone!  
+📱 Scan the QR code below to open the project instantly.
+
+![QR Code](./imgs/download.png)
+
+---
+
+💡 Tip: Use your phone's camera or any QR scanner app to open the live demo.
