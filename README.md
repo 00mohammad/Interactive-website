@@ -7,7 +7,7 @@ Welcome to **Interactive Website**, a sleek, modern, and fully responsive web pr
 ---
 
 ## 🎬 Live Demo & Project Video
-
+[!Watch Demo Video](https://interactive-websitjovial-naiad-1352d7.netlify.app/)
 [![Watch Demo Video](Screenshot/Laptop(1).png)](videos/Screen%20Recording%202025-10-10%20132153.mp4)
 
 > Click the image above to watch the **full interactive project demo**.  
@@ -61,13 +61,3 @@ Welcome to **Interactive Website**, a sleek, modern, and fully responsive web pr
 - **Optimized assets** – Fast loading and smooth performance.
 
 ---
-## 🌐 Live Demo
-
-🎯 Experience the Interactive Website on your phone!  
-📱 Scan the QR code below to open the project instantly.
-
-![QR Code](./imgs/download.png)
-
----
-
-💡 Tip: Use your phone's camera or any QR scanner app to open the live demo.
